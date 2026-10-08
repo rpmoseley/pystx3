@@ -1,0 +1,3 @@
+- Write tool to check that conversion from LEGACY to NEW is correct, also show unconverted values where NEW is 0.
+- Write tool to display the possible combinations of the various fields on the formats, following the correct process to interpret the text files, as these do match
+  the actual contents of the database SFIELD.  
